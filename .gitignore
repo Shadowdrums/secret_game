@@ -1,0 +1,12 @@
+*.csv
+
+__pycache__/
+poetry_cache/
+
+*.pyc
+*.pyo
+
+.env
+.DS_Store
+.idea/
+.vscode/
