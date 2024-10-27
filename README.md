@@ -48,3 +48,7 @@ Saved data is stored in save_data.csv and can be loaded from the main menu.
 ## Notes
 The hidden script (game_logic) will execute in the background once the player collects 5 special items.
 Customize the encoded script section to add your unique functionality.
+
+## Developers
+- Shadowdrums
+- DJ Stomp
